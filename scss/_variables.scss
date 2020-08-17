@@ -1,0 +1,37 @@
+// Colors:
+$white: #FFFFFF !default;
+$black: #000000 !default;
+
+$gray-100: #F9F9F9 !default;
+$gray-200: #ECECEC !default;
+$gray-300: #E2E2E2 !default;
+$gray-400: #D4D4D4 !default;
+$gray-500: #B5B5B5 !default;
+$gray-600: #757575 !default;
+$gray-700: #505050 !default;
+$gray-800: #3A3A3A !default;
+$gray-900: #252525 !default;
+
+$red: #D44946 !default;
+$orange: #E88A13 !default;
+$yellow: #EECE44 !default;
+$green: #548F57 !default;
+$teal: #0A7F73 !default;
+$cyan: #0EA1B3 !default;
+$blue: #3187D2 !default;
+$indigo: #4A559A !default;
+$purple: #85339B !default;
+$pink: #C62D65 !default;
+
+// Options:
+$enable-deprecation-messages: false !default;
+$enable-prefers-reduced-motion-media-query: false !default;
+$enable-responsive-font-sizes: true !default;
+$enable-rounded: false !default;
+$enable-transitions: false !default;
+
+// Typography:
+$font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace !default;
+$font-family-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$font-size-base: 0.9375rem !default;

@@ -1,0 +1,7 @@
+# Environment / workspace settings:
+.vscode/
+
+# Distribution / packaging:
+dist/
+node_modules/
+package-lock.json

@@ -1,0 +1,24 @@
+{
+  "name": "minimal",
+  "version": "0.1.2",
+  "author": "Andrew Malchuk <andrew.malchuk@yandex.ru>",
+  "description": "Flat and modern theme for Bootstrap",
+  "keywords": [
+    "minimal",
+    "theme",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/amalchuk/minimal.git"
+  },
+  "dependencies": {
+    "bootstrap": "4.5.2",
+    "node-sass": "latest"
+  },
+  "scripts": {
+    "build": "node-sass --quiet --output-style compressed scss --output dist"
+  },
+  "private": true
+}
