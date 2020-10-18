@@ -14,7 +14,7 @@
     "url": "https://gitlab.com/amalchuk/minimal.git"
   },
   "dependencies": {
-    "bootstrap": "4.5.2",
+    "bootstrap": "4.5.3",
     "node-sass": "latest"
   },
   "scripts": {
